@@ -1,3 +1,9 @@
 tasks:
   - init: pip3 install -r requirements.txt
     command: python3 app.py
+
+ports:
+  - name: Server
+    port: 8051
+    visibility: public
+    onOpen: open-browser

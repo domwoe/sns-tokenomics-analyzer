@@ -1,6 +1,6 @@
 # SNS Tokenomics Analyzer
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/domwoe/sns-tokenomic-analyzer)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/domwoe/sns-tokenomics-analyzer)
 
 ## Purpose
 
