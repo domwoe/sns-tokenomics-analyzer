@@ -1,5 +1,7 @@
 # SNS Tokenomics Analyzer
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/domwoe/sns-tokenomic-analyzer)
+
 ## Purpose
 
 - **What It Is**: A tool designed to simplify the setup and analysis of tokenomics for Service Nervous Systems (SNS) on the Internet Computer (IC).
