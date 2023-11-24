@@ -1,0 +1,6 @@
+pandas
+pyyaml
+dash
+setuptools
+plotly
+numpy
