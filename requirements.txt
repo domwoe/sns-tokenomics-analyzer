@@ -4,3 +4,4 @@ dash
 setuptools
 plotly
 numpy
+watchdog

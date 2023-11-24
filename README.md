@@ -1,5 +1,7 @@
 # SNS Tokenomics Analyzer
 
+## Quick Start
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/domwoe/sns-tokenomics-analyzer)
 
 ## Purpose
@@ -17,18 +19,3 @@ This tool is an initial beta version of the SNS Tokenomics Analyzer. Feedback re
 ## Version 
 Version 0.9. 
 
-## Installation  
-
-- Copy all files from this repo directory to a local directory. 
-- Python installation is required.
-- For the required libraries
-  - **Manual Installation**: Manually install the required Python libraries listed in `flake.nix` file.
-  - **Nix Installation**: Alternatively, install Nix and run `nix develop` in the directory where you plan to execute the code.
-
-
-## Running the Tool
-
-1. Adjust or replace the input `sns_init.yaml` in current directory. 
-2. Execute `python ./app.py` in your terminal.
-3. Adjust configuration parameters in config.py if needed 
-4. Open `http://127.0.0.1:8051/` in your local web browser to use the tool. 
